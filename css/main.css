@@ -1,0 +1,205 @@
+/*=================HEADER=====================*/
+/* font-family: "AugustaTwoRegular"; */
+@font-face {
+  font-family: "AugustaTwoRegular";
+  src: url("../fonts/AugustaTwoRegular/AugustaTwoRegular.eot");
+  src: url("../fonts/AugustaTwoRegular/AugustaTwoRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/AugustaTwoRegular/AugustaTwoRegular.woff") format("woff"), url("../fonts/AugustaTwoRegular/AugustaTwoRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "RobotoRegular"; */
+@font-face {
+  font-family: "RobotoRegular";
+  src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+  src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "RobotoLight"; */
+@font-face {
+  font-family: "RobotoLight";
+  src: url("../fonts/RobotoLight/RobotoLight.eot");
+  src: url("../fonts/RobotoLight/RobotoLight.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoLight/RobotoLight.woff") format("woff"), url("../fonts/RobotoLight/RobotoLight.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "RobotoMedium"; */
+@font-face {
+  font-family: "RobotoMedium";
+  src: url("../fonts/RobotoMedium/RobotoMedium.eot");
+  src: url("../fonts/RobotoMedium/RobotoMedium.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoMedium/RobotoMedium.woff") format("woff"), url("../fonts/RobotoMedium/RobotoMedium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "RobotoBold"; */
+@font-face {
+  font-family: "RobotoBold";
+  src: url("../fonts/RobotoBold/RobotoBold.eot");
+  src: url("../fonts/RobotoBold/RobotoBold.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoBold/RobotoBold.woff") format("woff"), url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "NautilusPompiliusRegular"; */
+@font-face {
+  font-family: "NautilusPompiliusRegular";
+  src: url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.eot");
+  src: url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.woff") format("woff"), url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "RobotoCondensedRegular"; */
+@font-face {
+  font-family: "RobotoCondensedRegular";
+  src: url("../fonts/RobotoCondensedRegular/RobotoCondensedRegular.eot");
+  src: url("../fonts/RobotoCondensedRegular/RobotoCondensedRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoCondensedRegular/RobotoCondensedRegular.woff") format("woff"), url("../fonts/RobotoCondensedRegular/RobotoCondensedRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "RobotoCondensedLight"; */
+@font-face {
+  font-family: "RobotoCondensedLight";
+  src: url("../fonts/RobotoCondensedLight/RobotoCondensedLight.eot");
+  src: url("../fonts/RobotoCondensedLight/RobotoCondensedLight.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoCondensedLight/RobotoCondensedLight.woff") format("woff"), url("../fonts/RobotoCondensedLight/RobotoCondensedLight.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "RobotoCondensedBold"; */
+@font-face {
+  font-family: "RobotoCondensedBold";
+  src: url("../fonts/RobotoCondensedBold/RobotoCondensedBold.eot");
+  src: url("../fonts/RobotoCondensedBold/RobotoCondensedBold.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoCondensedBold/RobotoCondensedBold.woff") format("woff"), url("../fonts/RobotoCondensedBold/RobotoCondensedBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "LobsterRegular"; */
+@font-face {
+  font-family: "LobsterRegular";
+  src: url("../fonts/LobsterRegular/LobsterRegular.eot");
+  src: url("../fonts/LobsterRegular/LobsterRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/LobsterRegular/LobsterRegular.woff") format("woff"), url("../fonts/LobsterRegular/LobsterRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/*==========  Desktop First Method  ==========*/
+/* Large Devices, Wide Screens */
+/* Medium Devices, Desktops */
+/* Small Devices, Tablets */
+/* Extra Small Devices, Phones */
+/* Custom, iPhone Retina */
+/*==========  Mobile First Method  ==========*/
+/* Custom, iPhone Retina */
+/* Extra Small Devices, Phones */
+/* Small Devices, Tablets */
+/* Medium Devices, Desktops */
+/* Large Devices, Wide Screens */
+.button_nav {
+  color: #fff;
+  font-size: 18px;
+}
+.brand {
+  font-family: "LobsterRegular";
+  font-size: 28px;
+  color: #fff;
+}
+.collapse ul {
+  margin-left: 20px;
+}
+.collapse ul a {
+  margin-left: px;
+}
+.search {
+  float: right;
+  margin-top: 9px;
+  width: 240px;
+  border-radius: 10px;
+}
+.search_btn {
+  margin-left: -22px;
+  margin-top: -13px;
+  float: right;
+  margin-top: -33px;
+  margin-right: 1px;
+  padding: 6px;
+}
+.dropdown-menu li a {
+  margin: 0;
+}
+.dropdown-menu li a:hover {
+  background-color: #222;
+  color: #fff;
+}
+.clearfix {
+  clear: both;
+}
+.container_head {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.row1 {
+  margin-top: 50px;
+  height: 570px;
+  width: 100%;
+  max-width: 100%;
+  background-image: url(../img/bg-head.jpg);
+  margin: 50px 0 0 0;
+  padding: 0;
+}
+.row1 h1 {
+  color: #D2DFEF;
+  font-size: 75px;
+  font-family: "LobsterRegular";
+}
+.h1_head {
+  margin-top: -20px;
+  margin-left: 70px;
+}
+.h1_head2 {
+  margin-top: 90px;
+}
+.header_text {
+  color: #D2DFEF;
+  font-family: "NautilusPompiliusRegular";
+  font-size: 28px;
+  margin-top: 78px;
+}
+.main {
+  background-color: #E2EFFF;
+}
+.news {
+  background-color: #fff;
+  margin-top: 40px;
+}
+.news p {
+  font-family: "RobotoRegular";
+  margin-top: 15px;
+}
+.news_img img {
+  margin-top: 55px;
+}
+.text_head {
+  font-size: 24px;
+  margin-top: 20px;
+  font-family: "RobotoCondensedRegular";
+}
+.text_head:hover {
+  text-decoration: none;
+  color: #222;
+}
+.btn_news {
+  float: right;
+  margin-bottom: 15px;
+  margin-top: 10px;
+  border: none;
+  text-transform: uppercase;
+  background-color: #3E89CC;
+  padding: 5px 15px;
+  color: #fff;
+  border: 2px solid transparent;
+}
+.btn_news:hover {
+  text-decoration: none;
+  background-color: #fff;
+  color: #3E89CC;
+  border: 2px solid #3E89CC;
+}
