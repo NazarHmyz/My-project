@@ -199,7 +199,8 @@
 }
 .btn_news:hover {
   text-decoration: none;
-  background-color: #fff;
+  background-color: #000;
   color: #3E89CC;
   border: 2px solid #3E89CC;
 }
+
